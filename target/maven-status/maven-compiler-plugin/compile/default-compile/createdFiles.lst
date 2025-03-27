@@ -1,0 +1,16 @@
+com\blog\servlet\BloggerServlet.class
+com\blog\entity\Comments.class
+com\blog\dao\CommentsDao.class
+com\blog\dao\BlogDao.class
+com\blog\dao\BloggerDao.class
+com\blog\entity\Blogger.class
+com\helper\FactoryProduct.class
+com\blog\entity\Blog.class
+com\blog\servlet\BlogPostServlet.class
+com\blog\servlet\LoginServlet.class
+com\blog\servlet\LogoutServlet.class
+com\blog\dao\AdminDao.class
+com\blog\servlet\AdminServlet.class
+com\blog\servlet\ChangeServlet.class
+com\blog\servlet\CommentServlet.class
+com\blog\entity\Admin.class
